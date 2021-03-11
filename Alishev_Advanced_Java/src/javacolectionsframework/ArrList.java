@@ -1,3 +1,5 @@
+package javacolectionsframework;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -16,7 +18,7 @@ public class ArrList {
         list.remove(5);
         System.out.println(list);
 
-        
+
 
     }
 }
